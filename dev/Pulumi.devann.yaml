@@ -1,0 +1,5 @@
+config:
+  aws:region: ca-central-1
+  devann:AWS_ACCESS_KEY_ID: AKIAUYDDIHH5CRFVYDXL
+  devann:aws_secret_access_key:
+    secure: AAABAPVehCm9d/WM22I/GOachilbbi2ftpc6US0gZMiCeojH1MbkJ1sU5hiwzAHQxyVPPVlSuQ5CtOmYvfinWk7/3BAK2nVu
